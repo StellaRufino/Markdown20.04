@@ -1,0 +1,51 @@
+# _**Corona Vírus**_
+
+---
+
+![vírus](https://conteudo.imguol.com.br/c/parceiros/40/2020/03/11/coronavirus-1583951542371_v2_450x337.jpg)
+
+#### O recomendado é, que todos que não prestam serviços essenciais,permaneçam de quarentena. 
+Através dos sites de notícias e redes sociais, devemos nos mantes informados.
+
+[Notícias ao vivo.](https://brasil.elpais.com/brasil/2020-04-20/ao-vivo-ultimas-noticias-sobre-o-coronavirus-no-brasil-e-no-mundo.html)  
+
+---
+
+
+
+## Cuidados Básicos
+* Lavar as mãos com sabão ou utilize álcool em gel.   
+* Cubra o nariz e a boca ao tossir.   
+* Evite aglomerações.   
+* Mantenha os ambientes ventilados.   
+* Não compartilhe objetos pessoais.   
+
+---
+
+
+## Os estados com mais mortes confirmadas são:
+
+
+
+| Estados | Mortes |
+| :-------: | :------: |
+| São Paulo | 1015 
+| Rio de Janeiro | 402 |
+| Pernambuco | 216 |
+| Ceará | 186 |
+| Amazonas | 182 |
+[Fonte](https://g1.globo.com/bemestar/coronavirus/noticia/2020/04/19/brasil-tem-2462-mortes-e-38654-casos-de-coronavirus-diz-ministerio.ghtml)
+
+---
+
+# Syntax Highlighting
+
+```js
+//Quarentena
+               
+var dias = prompt('Quantos dias você está de quarentena?')
+
+
+alert('Parabéns por estar à ' + dias + ' dias mantendo vidas seguras!');
+```
+
